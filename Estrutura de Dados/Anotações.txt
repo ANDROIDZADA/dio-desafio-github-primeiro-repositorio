@@ -1,0 +1,18 @@
+Vetor é uma sequência de variáveis do mesmo tipo e referenciadas por um nome único.
+
+Matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenadas contiguamente na memória.
+
+Lista ou sequência é uma estrutura de dados abstrata que implementa uma coleção ordenada de valores, onde o mesmo valor pode ocorrer mais de 
+uma vez.
+
+Pilha é uma estrutura de dados em que o acesso é restrito ao elemento mais recente na pilha.
+
+Filas são estruturas de dados bastante utilizadas na computação, onde o primeiro elemento a ser inserido, será também o primeiro a ser
+retirado.
+
+Árvore é uma estrutura de dados que herda as características das topologias em árvore.
+
+Em ciência da computação, uma tabela de dispersão (também conhecida por tabela de espalhamento ou tabela hash, do inglês hash) é uma estrutura 
+de dados especial, que associa chaves de pesquisa a valores.
+
+Grafo é uma estrutura usada para representar um modelo em que existem relações entre os objectos de uma certa colecção.
