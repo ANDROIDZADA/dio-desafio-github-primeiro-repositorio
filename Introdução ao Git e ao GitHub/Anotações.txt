@@ -3,3 +3,6 @@ Link para download do Git: https://git-scm.com/downloads
 O que é o Git? Ele é um sistema de controle de versões distribuído.
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+
+

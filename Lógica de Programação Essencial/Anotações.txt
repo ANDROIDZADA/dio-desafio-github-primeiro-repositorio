@@ -1,0 +1,6 @@
+Lógica de programação é uma coisa essencial para um programador, com ela você conseguirá entender as funcionalidades de um código e também
+será capaz de aprender muito mais linguagens de programação uma vez tendo dominado a lógica.
+
+Algoritmo é simplesmente uma "receita" para executarmos uma tarefa, por exemplo, atravessar a rua é um algoritmo, você olha pra esquerda,
+depois pra direita, e aí sim você atravessa a rua.
+
